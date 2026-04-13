@@ -1,6 +1,6 @@
 # ¡Hola, soy Dylan! 👋
 
-**Estudiante de Ingeniería Civil en Informática y Telecomunicaciones | Apasionado por la Ciberseguridad y el Backend**
+**Estudiante de Ingeniería Civil en Informática y Telecomunicaciones | Apasionado por la Ciberseguridad y el Software**
 
 Soy un futuro ingeniero (generación 2028) estudiando en la Universidad Diego Portales (UDP) en Chile. Me apasiona construir arquitecturas robustas en el backend y profundizar en todas las áreas de la ciberseguridad, desde la defensa hasta el análisis de vulnerabilidades.
 
