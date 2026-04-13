@@ -30,4 +30,4 @@ Soy un futuro ingeniero (generación 2028) estudiando en la Universidad Diego Po
 ### 📫 Cómo contactarme
 
 * **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/dylan-moraga-81ab9b22b/)
-* **Email:** [Mi_correo](mailto:dylanmoraga.miranda@gmail.com)
+* **Email:** dylanmoraga.miranda@gmail.com
