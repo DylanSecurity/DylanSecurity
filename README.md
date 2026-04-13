@@ -26,11 +26,6 @@ Soy un futuro ingeniero (generación 2028) estudiando en la Universidad Diego Po
 * Digital Forensics and Incident Response (DFIR)
 * Evaluación de Vulnerabilidades
 
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DylanSecurity&show_icons=true&theme=radium" alt="Estadísticas de Dylan" />
-</div>
 
 ### 📫 Cómo contactarme
 
