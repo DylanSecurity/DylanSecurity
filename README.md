@@ -6,11 +6,11 @@ Soy un futuro ingeniero (generación 2028) estudiando en la Universidad Diego Po
 
 ### 👨‍💻 Sobre Mí
 
-* 🔭 Actualmente curso mi cuarto año de universidad y me desempeño como **Ayudante** en las cátedras de Programación y Probabilidad y Estadística.
+* 🔭 Actualmente curso mi cuarto año de universidad y me desempeño como **Ayudante** en la cátedras de Programación.
 * 🌱 Mi enfoque técnico principal está en el **Desarrollo Backend** (Python, FastAPI, Docker) y las redes (SDN, protocolos TCP/UDP).
-* 🛡️ En ciberseguridad, me interesa el **Red Teaming, Blue Team, Bug Bounty, DFIR** y tengo un interés especial en la **ciberseguridad espacial y aeroespacial**.
+* 🛡️ En ciberseguridad, me interesa el **Red Teaming, Blue Team, Bug Bounty, DFIR** y tengo un interés especial en la **Geopolítica**.
 * 🚀 Recientemente trabajé en la **Optimización Dinámica de Calidad de Servicio (QoS) en SDN mediante Algoritmos de Decisión** (Práctica I).
-* 🌍 Mi objetivo a largo plazo es expandir mis fronteras y trabajar en el extranjero como Software Engineer o Especialista en Ciberseguridad.
+* 🌍 Mi objetivo a largo plazo es expandir mis fronteras y trabajar en el extranjero como Software Engineer o Analyst Cybersecurity.
 
 ### 🛠️ Stack Tecnológico y Herramientas
 
