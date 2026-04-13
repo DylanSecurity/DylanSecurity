@@ -2,7 +2,7 @@
 
 **Estudiante de Ingeniería Civil en Informática y Telecomunicaciones | Apasionado por la Ciberseguridad y el Backend**
 
-Soy un futuro ingeniero (generación 2028) estudiando en la Universidad Diego Portales (UDP) en Chile. Me apasiona construir arquitecturas robustas en el backend, explorar el mundo de las redes definidas por software (SDN) y profundizar en todas las áreas de la ciberseguridad, desde la defensa hasta el análisis de vulnerabilidades.
+Soy un futuro ingeniero (generación 2028) estudiando en la Universidad Diego Portales (UDP) en Chile. Me apasiona construir arquitecturas robustas en el backend y profundizar en todas las áreas de la ciberseguridad, desde la defensa hasta el análisis de vulnerabilidades.
 
 ### 👨‍💻 Sobre Mí
 
@@ -10,11 +10,10 @@ Soy un futuro ingeniero (generación 2028) estudiando en la Universidad Diego Po
 * 🌱 Mi enfoque técnico principal está en el **Desarrollo Backend** (Python, FastAPI, Docker) y las redes (SDN, protocolos TCP/UDP).
 * 🛡️ En ciberseguridad, me interesa el **Red Teaming, Blue Team, Bug Bounty, DFIR** y tengo un interés especial en la **ciberseguridad espacial y aeroespacial**.
 * 🚀 Recientemente trabajé en la **Optimización Dinámica de Calidad de Servicio (QoS) en SDN mediante Algoritmos de Decisión** (Práctica I).
-* 🌍 Mi objetivo a largo plazo es expandir mis fronteras y trabajar en el extranjero como Desarrollador Backend o Especialista en Ciberseguridad.
+* 🌍 Mi objetivo a largo plazo es expandir mis fronteras y trabajar en el extranjero como Software Engineer o Especialista en Ciberseguridad.
 
 ### 🛠️ Stack Tecnológico y Herramientas
 
-**Desarrollo y Arquitectura:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
